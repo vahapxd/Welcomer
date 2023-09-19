@@ -1,0 +1,24 @@
+{
+  "tokens": [
+    "MTE1MTk1MDE5MjkxNzEwMjY2Mg.G0lVKC.QbRPgjyODb8r7PtgRbBSDlbqlIWt5ZousIrRQs",
+    "MTE1MTk1MDQ5NzQ3ODA4MjY2Mw.GdX9NW.QzIWtJnM3_aPicOm5N35aLGA8izOi6hWdZ2VzE",
+    "MTE1MTk1MDYxNDQ2OTgxNjQwMQ.GQ9IK0.ymGqc_hGHMaucN44IN8Gvp7Faun6oov3uI1X8I",
+    "MTE1MTk1MDczNDI1NDkzMTk2OA.GkuhL5.FquZJ0q-T-UB2zugZKR5Z1x_YXy9oLu1eyDuVs",
+    "MTE1MTk2NDkzNDQ1NzAxMjI1NQ.GpvHRv.qE-5_9C2TdAiQ83TvsmsLHN2Aw1rAJ5xl-m2AU"],
+  
+  "channels": [
+   "1047196664487747616",
+    "1047196666878492814",
+    "1047196669869051925",
+    "1047196672381427802",
+    "1152917393279037570"],
+
+  "yetkilirol": [
+    "Yetkili Rol İd"],
+
+  "kayıtsızrol": [
+    "Kayıtsız Rol İd"],
+  
+  "hosgeldinses": "https://cdn.discordapp.com/attachments/996472821876260924/996472906370519150/tts_file.mp3",
+  "yetkilises": "https://cdn.discordapp.com/attachments/996472821876260924/996472930571657287/tts_file_1.mp3"
+}
